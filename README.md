@@ -307,9 +307,7 @@ class MockGenerator {
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
 
-MIT License - see LICENSE file for details.
 
 ## 🆘 Support
 
